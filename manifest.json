@@ -1,0 +1,14 @@
+{
+  "name": "Campfire",
+    "version": "1.0",
+    "icons": { "24": "24.png", "128": "128.png" },
+    "description": "Campfire is a simple web-based real-time group chat tool for business.", 
+    "app": {
+      "urls": [
+        "https://launchpad.37signals.com/campfire/signin"
+        ],
+      "launch": {
+        "web_url": "https://launchpad.37signals.com/campfire/signin"
+      }
+    }
+}
